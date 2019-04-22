@@ -150,7 +150,10 @@ parts:
     build-packages:
     - autoconf-archive
     - build-essential
+    - gettext
     - libgtk-3-dev
+    - libnotify-dev
+    - libwebkit2gtk-4.0-dev
     - yelp-tools
 
     override-build: |
