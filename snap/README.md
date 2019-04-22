@@ -3,7 +3,7 @@
 	Use the Staticaly service for easy access to in-repo pictures:
 	https://www.staticaly.com/
 -->
-![(Placeholder) Icon of Zenity](https://cdn.staticaly.com/gh/Lin-Buo-Ren/snapcrafters-template-plus/bea3bc56/snap/gui/icon.png "(Placeholder) Icon of Zenity")
+![Icon of Zenity](gui/zenity.256px.png "Icon of Zenity")
 
 **This is the unofficial snap for Zenity**, *"Display dialog boxes from the commandline
 and shell scripts"*. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.
